@@ -1,4 +1,4 @@
-HoMM3 Heroes Setup
+HoMM3 heroes skill build and campaigns
 ==================
 
 Hero skill-build notes for the Heroes of Might and Magic III:
