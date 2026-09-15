@@ -1,17 +1,256 @@
 # 'death of shadows' campaign
- 2. Hack and Slash 光辉岁月
+
+ 5. Rise of the Necromancer 死亡阴影
   (1) Scenarios
-    a. Bashing Skulls (骷髅冠)
-    b. Black Sheep (黑魔剑)
-    c. A Cage in the Hand (骨质胸甲)
-    d. Grave Robber (墓穴盗贼)
+    a. Target (野心勃勃)
+    b. Master (离经叛道)
+    c. Finneas Vilmar (一拍即合)
+    d. Duke Alarice (埃拉雷斯公爵)
     e. 结束语
 
-  (2) Scenarios
-    a. Bashing Skulls (骷髅冠)
-    b. Black Sheep (黑魔剑)
-    c. A Cage in the Hand (骨质胸甲)
-    d. Grave Robber (墓穴盗贼)
+  (2) Scenario detailsS
+    a. Target (野心勃勃)
+    b. Master (离经叛道)
+    c. Finneas Vilmar (一拍即合)
+    d. Duke Alarice (埃拉雷斯公爵)
+    e. 结束语
+
+  (3) Heroes of Might and Magic III (HoMM3)
+    a. character
+      i. Finneas Vilmar the Necromancer
+      ii. Sandro the Necromancer
+
+    b. scenario tips:
+      (b) Sandro the Necromancer
+        i. Scenario 1 is the reroll point: restart until Sandro has few Wights, few Walking Dead and pack of Skeletons. Also equip and combine everything in his backpack on day 1 — assemble Armor of the Damned and Cloak of the Undead King on Sandro.
+        ii. Starting bonus in scenario 1: take the Lightning Bolt scroll. Although you might be tempted to take the +2 Attack Skill as your bonus, taking the Lightning Bolt scroll will make the first three weeks much easier.
+        iii. The Armor of the Damned auto-casts Mass Slow, Mass Curse, Mass Weakness and Mass Misfortune when you get initiative — which is why Air Magic (Haste/speed) and high Spell Power matter more than raw Attack on him.
+        iv. Feed him every weak wandering stack you can: attacking weak wandering stacks to build up Sandro's supply of Liches is the whole strategy once Necromancy hits Expert.
+        v. Push Necropolis creature dwellings over gold buildings early — focus on creature generator buildings instead of gold producing buildings for the first week or two.
+      
+      (a) Finneas Vilmar the Necromancer
+        i. Sandro is the blitz hero, Finneas is the second front
+        ii. Don't let him idle. The standard approach is to have Sandro blitzkrieg and when the main enemies are more or less defeated, give the major artifacts to Finneas so he can fight neutral stacks and level up. He's capped at 20 in scenario 3 and carries forward, so wasted turns are permanently lost stats.
+        iii. Early on he's fragile: Finneas can help out but you must be careful to keep him alive or you'll lose the scenario. Give him a Skeleton wall before sending him anywhere alone.
+        iv. His specialty only pays off with high Spell Power, so prioritize Power-boosting stat objects for him and let Sandro take the Knowledge ones.
+        v. Practical split: Sandro takes the main push, Finneas takes the secondary direction — send him south from A1 to engage in some sea battles as well as heading down E1a to flag the mines down there.
+
+    c. hero skills:
+      (b) Sandro the Necromancer
+        i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+          (0) specialty: Sorcery
+          (i) main
+            - [] Air Magic
+            - [] Earth Magic
+            - [] Necromancy
+            - [] Sorcery
+            - [] Wisdom
+          
+          (ii) Strong picks
+            - [] Armorer
+            - [] Diplomacy
+            - [] Intelligence
+            - [] Logistics
+            - [] Tactics
+
+          (iii) backup
+            - [] Water Magic
+            - [] Offense
+            - [] Mysticism
+            - [] Leadership
+
+          (iv) avoid
+            - [] Archery
+            - [] Artillery
+            - [] Ballistics
+            - [] Eagle Eye
+            - [] Estates
+            - [] Fire Magic (亡灵免疫火墙等, 价值低)
+            - [] First Aid
+            - [] Leadership / 领导术（亡灵部队无士气）
+            - [] Learning
+            - [] Navigation
+            - [] Pathfinding
+            - [] Resistance
+            - [] Scholar
+            - [] Scouting
+
+      (a) Finneas Vilmar the Necromancer
+        i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+          (0) specialty: Animate Dead
+          (i) main
+            - [] Earth Magic
+            - [] Logistics
+            - [] Necromancy
+            - [] Wisdom
+          
+          (ii) Strong picks
+            - [] Air Magic
+            - [] Armorer
+            - [] Intelligence
+            - [] Sorcery
+            - [] Tactics
+
+          (iii) backup
+            - [] Diplomacy
+            - [] Mysticism
+            - [] Offense
+            - [] Water Magic
+
+          (iv) avoid
+            - [] Archery
+            - [] Artillery
+            - [] Ballistics
+            - [] Eagle Eye
+            - [] Estates
+            - [] Fire Magic
+            - [] First Aid
+            - [] Leadership / 领导术（亡灵无士气）
+            - [] Learning
+            - [] Pathfinding
+            - [] Resistance
+            - [] Scholar
+            - [] Scouting
+
+ 4. Elixir of Life 丛林勇士
+  (1) Scenarios
+    a. Graduation Exercise (毕业训练)
+    b. Cutthroats (凶手)
+    c. Valley of the Dragon (飞龙山谷)
+    d. A Thief in the Night (夜盗)
+    e. 结束语
+
+  (2) Scenario details
+    a. Graduation Exercise (毕业训练)
+    b. Cutthroats (凶手)
+    c. Valley of the Dragon (飞龙山谷)
+    d. A Thief in the Night (夜盗)
+    e. 结束语
+
+  (3) Heroes of Might and Magic III (HoMM3)
+    a. character
+      i. Gelu the ranger
+
+    b. scenario tips:
+      (a) Scenario 1 (Graduation Exercise) is the reroll point. The community advice is to restart it until Gelu's early offers are good — Wisdom and Earth Magic are the must-haves. The StrategyWiki walkthrough says the same: if we are offered Wisdom, Logistics or Earth Magic for Gelu, take it.
+      (b) Take Sharpshooters (20) as the scenario 1 starting bonus.
+      (c) Secondary heroes carry over from scenario 1 up to 3 included; only scenario 4 has no carryover — so level a couple of support heroes in maps 1–3 by flagging mines and hauling Elves, then in map 4 let Gelu do everything himself.
+      (d) Keep the Ring of Vitality and Ring of Life on him. Don't sacrifice them at the altar of sacrifices — they're two of the three Elixir components.
+      (e) If you're rushing on high difficulty, scenario 1 has a known bug: Dimension Door and Fly are not banned there (they are banned in scenarios 2–4), so an Intelligence-based magic support hero with Air and Earth can break the map open.
+
+    c. hero skills:
+      (a) Gelu the ranger
+        i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+          (0) specialty: Sharpshooters
+          (i) main
+            - [] Air Magic  # 加速、连锁闪电、次元门
+            - [] Archery 箭术
+            - [] Armorer
+            - [] Earth Magic  # 爆裂, Resurrection, Slow, Town Portal
+            - [] Intelligence
+            - [] Logistics 后勤学
+            - [] Offense
+            - [] Tactics
+            - [] Wisdom 智慧
+
+          (ii) backup
+            - [] Diplomacy 外交术
+            - [] Leadership 领导术
+            - [] Resistance 抵抗力
+            - [] Sorcery 巫术
+            - [] Water Magic 水系魔法
+
+          (iii) avoid
+            - [] Artillery
+            - [] Ballistics
+            - [] Eagle Eye
+            - [] Estates
+            - [] Fire Magic
+            - [] First Aid
+            - [] Learning
+            - [] luck
+            - [] Mysticism
+            - [] Navigation
+            - [] Necromancy
+            - [] Pathfinding
+            - [] Scholar
+            - [] Scouting
+
+ 3. Birth of a Barbarian 勇者无敌
+  (1) Scenarios
+    a. On the Run 亡命天涯
+    b. The Meeting 如愿以偿
+    c. A Tough Start 接受使命
+    d. Falor and Terwen 再接再厉
+    e. 结束语
+
+  (2) Scenario details
+    a. On the Run 亡命天涯
+    b. The Meeting 如愿以偿
+    c. A Tough Start 接受使命
+    d. Falor and Terwen 再接再厉
+    e. 结束语
+
+  (3) Heroes of Might and Magic III (HoMM3)
+    a. character
+      i. Yog the Barbarian
+
+    b. scenario tips:
+      (a) Without spells 'Yog the Barbarian' can't Slow or Haste, so speed and tempo come from creatures and Tactics — favor fast units and let Armorer absorb the first exchanges.
+      (b) Because 'Yog the Barbarian' can't cast, his eight slots are really only for might skills, and there aren't quite eight good ones. That's why Ballistics/Artillery and Resistance, normally junk, are fine choices for him — anything beats an empty-value slot.
+
+    c. hero skills:
+      (a) Yog the Barbarian
+        i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+          (0) specialty: Cyclopes
+          (i) main
+            - [] Archery
+            - [] Armorer
+            - [] Diplomacy
+            - [] Logistics
+            - [] Luck
+            - [] Offense
+            - [] Pathfinding # rough terrain
+            - [] Tactics
+
+          (ii) backup
+            - [] Leadership # boost Morale
+            - [] Ballistics
+            - [] Artillery
+            - [] Resistance
+
+          (iii) avoid
+            - [] Air Magic
+            - [] Eagle Eye
+            - [] Earth Magic
+            - [] Estates
+            - [] Fire Magic
+            - [] First Aid
+            - [] Intelligence
+            - [] Learning
+            - [] Mysticism
+            - [] Navigation
+            - [] Scholar
+            - [] Scouting
+            - [] Sorcery
+            - [] Water Magic
+            - [] Wisdom
+
+          (iv) 'Yog the wizard' only exists in the Birth of a Barbarian — it's a scripted profile
+
+ 2. Hack and Slash 光辉岁月
+  (1) Scenarios
+    a. Bashing Skulls 骷髅冠
+    b. Black Sheep 黑魔剑
+    c. A Cage in the Hand 骨质胸甲
+    d. Grave Robber 墓穴盗贼
+    e. 结束语
+
+  (2) Scenario details
+    a. Bashing Skulls 骷髅冠
+    b. Black Sheep 黑魔剑
+    c. A Cage in the Hand 骨质胸甲
+    d. Grave Robber 墓穴盗贼
     e. 结束语
 
   (3) Heroes of Might and Magic III (HoMM3)
@@ -25,7 +264,7 @@
     c. hero skills:
       (a) Crag Hack the Barbarian
         i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
-          (0) specialty: Haste
+          (0) specialty: Offense
           (i) main
             - [] Archery
             - [] Armorer
@@ -34,10 +273,10 @@
             - [] Offense
             - [] Wisdom
 
-          (ii) backup (if he casts spells)
+          (ii) backup
             - [] Leadership # boost Morale
             - [] Tactics # keep but don't chase
-            - [] Air Magic # Hate
+            - [] Air Magic # Haste
 
           (iii) avoid
             - [] Eagle Eye
@@ -52,17 +291,17 @@
 
  1. New Beginning 踏上征途
   (1) Scenarios
-    a. Clearing the Border (保护边境)
-    b. After the Amulet (亡灵护身符)
-    c. Retrieving the Cowl (吸血鬼披风)
-    d. Driving for the Boots (死神靴)
+    a. Clearing the Border 保护边境
+    b. After the Amulet 亡灵护身符
+    c. Retrieving the Cowl 吸血鬼披风
+    d. Driving for the Boots 死神靴
     e. 结束语
 
   (2) Scenario details
-    a. Clearing the Border (保护边境)
-    b. After the Amulet (亡灵护身符)
-    c. Retrieving the Cowl (吸血鬼披风)
-    d. Driving for the Boots (死神靴)
+    a. Clearing the Border 保护边境
+    b. After the Amulet 亡灵护身符
+    c. Retrieving the Cowl 吸血鬼披风
+    d. Driving for the Boots 死神靴
     e. 结束语
 
   (3) Heroes of Might and Magic III (HoMM3)
@@ -90,7 +329,7 @@
             - [] Offense
             - [] Wisdom
 
-          (ii) backup (if he casts spells)
+          (ii) backup
             - [] Archery
             - [] Armorer
             - [] Intelligence
@@ -138,7 +377,7 @@
 
       (a) Clancy the Ranger
         i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
-          (0) specialty: Resistance
+          (0) specialty: Unicorns
           (i) main
             - [] Archery
             - [] Armorer
@@ -147,7 +386,7 @@
             - [] Offense
             - [] Wisdom
 
-          (ii) backup (if he casts spells)
+          (ii) backup
             - [] Tactics
             - [] Leadership
             - [] Air Magic  # Haste

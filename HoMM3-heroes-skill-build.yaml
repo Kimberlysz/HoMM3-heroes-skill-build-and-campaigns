@@ -1,4 +1,43 @@
 # heroes skill build
+
+  # Yog the Barbarian
+    i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+      (0) specialty: Cyclopes
+      (i) main
+        - [] Archery
+        - [] Armorer
+        - [] Diplomacy
+        - [] Logistics
+        - [] Luck
+        - [] Offense
+        - [] Pathfinding # rough terrain
+        - [] Tactics
+
+      (ii) backup
+        - [] Leadership # boost Morale
+        - [] Ballistics
+        - [] Artillery
+        - [] Resistance
+
+      (iii) avoid
+        - [] Air Magic
+        - [] Eagle Eye
+        - [] Earth Magic
+        - [] Estates
+        - [] Fire Magic
+        - [] First Aid
+        - [] Intelligence
+        - [] Learning
+        - [] Mysticism
+        - [] Navigation
+        - [] Scholar
+        - [] Scouting
+        - [] Sorcery
+        - [] Water Magic
+        - [] Wisdom
+
+      (iv) 'Yog the wizard' only exists in the Birth of a Barbarian — it's a scripted profile
+
   # Terek the battle mage
     i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
       (0) specialty: Haste
@@ -25,6 +64,45 @@
         - [] Resistance
         - [] Scouting
         - [] Sorcery # his damage spells won't be the point
+
+  # Sandro the Necromancer
+    i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+      (0) specialty: Sorcery
+      (i) main
+        - [] Air Magic
+        - [] Earth Magic
+        - [] Necromancy
+        - [] Sorcery
+        - [] Wisdom
+      
+      (ii) Strong picks
+        - [] Armorer
+        - [] Diplomacy
+        - [] Intelligence
+        - [] Logistics
+        - [] Tactics
+
+      (iii) backup
+        - [] Water Magic
+        - [] Offense
+        - [] Mysticism
+        - [] Leadership
+
+      (iv) avoid
+        - [] Archery
+        - [] Artillery
+        - [] Ballistics
+        - [] Eagle Eye
+        - [] Estates
+        - [] Fire Magic (亡灵免疫火墙等, 价值低)
+        - [] First Aid
+        - [] Leadership / 领导术（亡灵部队无士气）
+        - [] Learning
+        - [] Navigation
+        - [] Pathfinding
+        - [] Resistance
+        - [] Scholar
+        - [] Scouting
 
   # Gem the Sorceress
     i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
@@ -55,6 +133,80 @@
         - [] Resistance
         - [] Scouting
 
+  # Gelu the ranger
+    i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+      (0) specialty: Sharpshooters
+      (i) main
+        - [] Air Magic  # 加速、连锁闪电、次元门
+        - [] Archery 箭术
+        - [] Armorer
+        - [] Earth Magic  # 爆裂, Resurrection, Slow, Town Portal
+        - [] Intelligence
+        - [] Logistics 后勤学
+        - [] Offense
+        - [] Tactics
+        - [] Wisdom 智慧
+
+      (ii) backup
+        - [] Diplomacy 外交术
+        - [] Leadership 领导术
+        - [] Resistance 抵抗力
+        - [] Sorcery 巫术
+        - [] Water Magic 水系魔法
+
+      (iii) avoid
+        - [] Artillery
+        - [] Ballistics
+        - [] Eagle Eye
+        - [] Estates
+        - [] Fire Magic
+        - [] First Aid
+        - [] Learning
+        - [] luck
+        - [] Mysticism
+        - [] Navigation
+        - [] Necromancy
+        - [] Pathfinding
+        - [] Scholar
+        - [] Scouting
+
+  # Finneas Vilmar the Necromancer
+    i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+      (0) specialty: Animate Dead
+      (i) main
+        - [] Earth Magic
+        - [] Logistics
+        - [] Necromancy
+        - [] Wisdom
+      
+      (ii) Strong picks
+        - [] Air Magic
+        - [] Armorer
+        - [] Intelligence
+        - [] Sorcery
+        - [] Tactics
+
+      (iii) backup
+        - [] Diplomacy
+        - [] Mysticism
+        - [] Offense
+        - [] Water Magic
+
+      (iv) avoid
+        - [] Archery
+        - [] Artillery
+        - [] Ballistics
+        - [] Eagle Eye
+        - [] Estates
+        - [] Fire Magic
+        - [] First Aid
+        - [] Leadership / 领导术（亡灵无士气）
+        - [] Learning
+        - [] Pathfinding
+        - [] Resistance
+        - [] Scholar
+        - [] Scouting
+
   # Crag Hack the Barbarian
     i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
       (0) specialty: Haste
@@ -69,7 +221,7 @@
       (ii) backup (if he casts spells)
         - [] Leadership # boost Morale
         - [] Tactics # keep but don't chase
-        - [] Air Magic # Hate
+        - [] Air Magic # Haste
 
       (iii) avoid
         - [] Eagle Eye
@@ -83,6 +235,34 @@
         - [] Sorcery
 
   # Clancy the Ranger
+    i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
+      (0) specialty: Resistance
+      (i) main
+        - [] Archery
+        - [] Armorer
+        - [] Earth Magic # Animate Dead, Resurrection, Slow, Town Portal
+        - [] Logistics
+        - [] Offense
+        - [] Wisdom
+
+      (ii) backup (if he casts spells)
+        - [] Tactics
+        - [] Leadership
+        - [] Air Magic  # Haste
+        - [] Intelligence
+        - [] Resistance # his speciality but don't chase
+        - [] Pathfinding  # rough terrain
+
+      (iii) avoid
+        - [] Eagle Eye
+        - [] Learning
+        - [] Scouting
+        - [] Mysticism
+        - [] Navigation
+        - [] First Aid
+        - [] Estates
+        - [] Sorcery
+
     i. Recommended Skills in 'your_scenario' Scenario under 'New Beginning 踏上征途' series in 'death of shadow' campaign
       (0) specialty: Resistance
       (i) main
