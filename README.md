@@ -24,7 +24,7 @@ has in-game ("w/ game") or what you've picked so far.
 CAMPAIGNS COVERED
 -----------------
   1. shadow of death
-    (1) New Beginning        踏上征途   - Gem, Clancy, Terek \n
+    (1) New Beginning        踏上征途   - Gem, Clancy, Terek
     (2) Hack and Slash       光辉岁月   - Crag Hack
     (3) Birth of a Barbarian 勇者无敌   - Yog
     (4) Elixir of Life       丛林勇士   - Gelu
